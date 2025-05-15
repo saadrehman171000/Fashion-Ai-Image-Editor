@@ -12,8 +12,8 @@ A modern Next.js app for removing backgrounds from fashion images using AI (Remo
 
 1. Clone the repo and install dependencies:
    ```bash
-   git clone https://github.com/yourusername/fashion-image-background-remover.git
-   cd fashion-image-background-remover
+   git clone https://github.com/saadrehman171000/Fashion-Ai-Image-Editor
+   cd Fashion-Ai-Image-Editor
    npm install
    ```
 
